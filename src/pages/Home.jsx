@@ -26,6 +26,7 @@ export const Home = () => {
           Tweets
         </Typography>
       </Box>
+
       <Box sx={wrapperStyle}>
         <Typography sx={subtitleStyle}>This is how ChatGPT described this app:</Typography>
 
