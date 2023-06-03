@@ -15,4 +15,4 @@ export const limit = 9;
 
 export const totalItems = 90;
 
-export const baseUrlApi = 'https://64667a502ea3cae8dc180276.mockapi.io/tweets/contacts';
+export const baseUrlApi = 'https://6436f7fc8205915d34019426.mockapi.io/api/';
