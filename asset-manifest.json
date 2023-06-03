@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test_task_tweets/static/css/main.760b0a85.css",
-    "main.js": "/test_task_tweets/static/js/main.ca029915.js",
-    "static/media/follow.png": "/test_task_tweets/static/media/follow.92528ebde7799f5f24c4.png",
-    "static/media/img-1.webp": "/test_task_tweets/static/media/img-1.eb0188ae87e34a45239a.webp",
-    "static/media/logo.svg": "/test_task_tweets/static/media/logo.e917114d7945c04c85a8946a331d28b6.svg",
-    "index.html": "/test_task_tweets/index.html",
-    "main.760b0a85.css.map": "/test_task_tweets/static/css/main.760b0a85.css.map",
-    "main.ca029915.js.map": "/test_task_tweets/static/js/main.ca029915.js.map"
+    "main.css": "/test-task-tweets/static/css/main.760b0a85.css",
+    "main.js": "/test-task-tweets/static/js/main.4129f6e5.js",
+    "static/media/follow.png": "/test-task-tweets/static/media/follow.92528ebde7799f5f24c4.png",
+    "static/media/img-1.webp": "/test-task-tweets/static/media/img-1.eb0188ae87e34a45239a.webp",
+    "static/media/logo.svg": "/test-task-tweets/static/media/logo.e917114d7945c04c85a8946a331d28b6.svg",
+    "index.html": "/test-task-tweets/index.html",
+    "main.760b0a85.css.map": "/test-task-tweets/static/css/main.760b0a85.css.map",
+    "main.4129f6e5.js.map": "/test-task-tweets/static/js/main.4129f6e5.js.map"
   },
   "entrypoints": [
     "static/css/main.760b0a85.css",
-    "static/js/main.ca029915.js"
+    "static/js/main.4129f6e5.js"
   ]
 }
