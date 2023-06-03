@@ -53,10 +53,10 @@ export const Home = () => {
             target="_blank"
             sx={descriptionStyle}
           >
-            Pavlo Morozenko
+            Pavlo Morozenko 
           </Typography>
         </Typography>
       </Box>
     </Box>
   );
-}; 
+};

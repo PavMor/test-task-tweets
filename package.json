@@ -2,7 +2,7 @@
   "name": "test-task-tweets",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavmor.github.io/test_task_tweets/",
+  "homepage": "https://PavMor.github.io/test-task-tweets/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
@@ -23,7 +23,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint:js": "eslint src/**/*.{js,jsx}"
+    "lint:js": "eslint src/**/*.{js,jsx}",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,7 +45,6 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
 }
